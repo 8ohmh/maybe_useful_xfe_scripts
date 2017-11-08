@@ -1,0 +1,26 @@
+[OPTIONS]
+width=1364
+textfont=Helvetica,100,normal,regular
+showtoolbar=1
+ypos=31
+showstatusbar=1
+xpos=0
+height=662
+
+[Recent Files]
+FILE6=/nas/data-e/privat/000-dokumente/oh/000-keealt/pwd/okmail(2).txt
+FILE7=/nas/data-e/000-neu/franz.txt
+FILE4=/000-neu/maarten.txt
+FILE5=/media/user/32GB Or 2/maarten.txt
+FILE2=/media/user/VIOLETT/data/pek.txt
+FILE3=/home/user/000-todo/writing_linux_kernel_keylogger.txt
+FILE10=/nas/data-w/pr1v4t3/schwertner.txt
+FILE1=/var/log/apt/history.log
+FILE8=/nas/data-e/000-neu/la.txt
+FILE9=/nas/data-e/000-neu/suchge.txt
+
+[SETTINGS]
+basecolor=#ede9e3
+tiptime=10000
+tippause=500
+
